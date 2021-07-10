@@ -22,3 +22,6 @@ prerequisites
 3. create the database (employee) and the table (employeedetails)
 4. Build the GUI
 5. Build the logic into the GUI where it can insert employee details to the table
+
+##
+![Screenshot (254)](https://user-images.githubusercontent.com/36602031/125169886-e618e780-e1c9-11eb-8206-26a015af4bb6.png)
